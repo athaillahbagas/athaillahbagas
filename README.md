@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="banner.svg" />
-  <img src="banner.svg" width="100%" alt="Athaillah Bagas — Engineering at ITB. Exploring business and finance, learning through building, and turning ideas into useful tools." />
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg?v=typing-1" />
+  <source media="(prefers-color-scheme: light)" srcset="banner.svg?v=typing-1" />
+  <img src="banner.svg?v=typing-1" width="100%" alt="Athaillah Bagas — Engineering at ITB. Exploring business and finance, learning through building, and turning ideas into useful tools." />
 </picture>
 
 <p align="center">
