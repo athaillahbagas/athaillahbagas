@@ -9,14 +9,14 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.instagram.com/athabgs/">Instagram ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/athaillahbagas?tab=repositories">Projects ↗</a>
+  <a href="https://athaillahbagas.github.io/portfolio/">Portfolio ↗</a>
 </p>
 
 <br>
 
 ## About
 
-I'm **Atha**, an engineering student at **Institut Teknologi Bandung** with an interest in business, finance, and technology. I explore these interests through practical tools, interactive concepts, and coursework.
+I'm **Atha**, an engineering student at **Institut Teknologi Bandung** interested in strategy, finance, and business analytics. I explore business problems through structured analysis and practical tools, making assumptions and trade-offs explicit.
 
 <br>
 
