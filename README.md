@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athaillahbagas/athaillahbagas/774909f8d53362d01ca0326454a02d9cfcdb9953/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athaillahbagas/athaillahbagas/774909f8d53362d01ca0326454a02d9cfcdb9953/banner.svg" />
-  <img src="https://raw.githubusercontent.com/athaillahbagas/athaillahbagas/774909f8d53362d01ca0326454a02d9cfcdb9953/banner.svg" width="100%" alt="Athaillah Bagas — Engineering at ITB. Exploring business and finance, learning through building, and turning ideas into useful tools." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athaillahbagas/athaillahbagas/b8082c9fe4ebfeb2ac611c1c903f9678c459e68b/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athaillahbagas/athaillahbagas/b8082c9fe4ebfeb2ac611c1c903f9678c459e68b/banner.svg" />
+  <img src="https://raw.githubusercontent.com/athaillahbagas/athaillahbagas/b8082c9fe4ebfeb2ac611c1c903f9678c459e68b/banner.svg" width="100%" alt="Athaillah Bagas — Engineering at ITB. Business strategy. Structured problem solving. Turning analysis into decisions." />
 </picture>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm **Atha**, an engineering student at **Institut Teknologi Bandung** interested in strategy, finance, and business analytics. I explore business problems through structured analysis and practical tools, making assumptions and trade-offs explicit.
+I'm **Atha**, an engineering student at **Institut Teknologi Bandung** with an interest in strategy, finance, and business analytics. I explore business problems through research, structured analysis, and practical tools.
 
 <br>
 
