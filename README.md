@@ -1,47 +1,49 @@
-<p align="center">
-  <img src="banner.svg" width="100%" alt="Hi, I'm Atha — ur fav finance guy. Finance, business and technology." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="banner.svg" />
+  <img src="banner.svg" width="100%" alt="Athaillah Bagas. Engineering at ITB. Engineering, business and technology." />
+</picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/athaillahbagas/"><b>LinkedIn ↗</b></a>
+  <a href="https://www.linkedin.com/in/athaillahbagas/">LinkedIn ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/athbgs?tab=repositories"><b>Explore my projects ↗</b></a>
+  <a href="https://www.instagram.com/athabgs/">Instagram ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/athbgs?tab=repositories">Projects ↗</a>
 </p>
 
 <br>
 
-## A little about me
+## About
 
-I'm **Athaillah Bagas**, a student at **Institut Teknologi Bandung**, exploring where finance, business, and technology meet.
-
-I like making numbers easier to understand and turning ideas into things people can try. Here you'll find financial tools, interactive concepts, and projects I'm learning from along the way.
-
-- **Interested in** — finance, business strategy, and useful digital products.
-- **Learning by doing** — Python, web development, and turning a problem into a working prototype.
-- **My approach** — stay curious, make it clear, keep improving.
+I'm **Atha**, an engineering student at **Institut Teknologi Bandung** with an interest in business, finance, and technology. I explore these interests through practical tools, interactive concepts, and coursework.
 
 <br>
 
-## Selected projects
+## Selected work
 
-| Project | What it's about | Explore |
-| :--- | :--- | :--- |
-| **Kalku Finance**<br><sub>Educational prototype</sub> | A browser-based calculator for ROI, loans, retirement, and compound interest. | [Repository ↗](https://github.com/athbgs/kalkufinance) |
-| **Smart Parcel Locker**<br><sub>Team coursework · ITB</sub> | A Python parcel-locker simulation with package-fit checks and pickup codes. | [Repository ↗](https://github.com/athbgs/smart-parcel-locker) |
-| **GMMUN Registration**<br><sub>Planning prototype</sub> | An interactive registration-capacity dashboard and validation pack. | [Demo ↗](https://athbgs.github.io/gmmun-registration/) · [Code](https://github.com/athbgs/gmmun-registration) |
-| **FlyGaruda Buddy**<br><sub>IMCC concept</sub> | An interactive travel-buddy concept with simulated journeys and original mascots. | [Demo ↗](https://athbgs.github.io/flygaruda-buddy/) · [Code](https://github.com/athbgs/flygaruda-buddy) |
+### [Kalku Finance](https://github.com/athbgs/kalkufinance)
 
-<br>
+Browser-based calculators for ROI, loans, retirement, and compound interest.  
+<sub>Educational prototype · HTML, CSS, JavaScript</sub>
 
-## Exploring & building with
+### [Smart Parcel Locker](https://github.com/athbgs/smart-parcel-locker)
 
-<img src="toolkit.svg" width="532" alt="Python, HTML, CSS and JavaScript" />
+A parcel-locker simulation with package-fit checks and pickup codes.  
+<sub>Team coursework at ITB · Python</sub>
+
+### [GMMUN Registration](https://github.com/athbgs/gmmun-registration)
+
+An interactive dashboard for exploring registration capacity and planning scenarios.  
+<sub>Planning prototype · <a href="https://athbgs.github.io/gmmun-registration/">View demo ↗</a></sub>
+
+### [FlyGaruda Buddy](https://github.com/athbgs/flygaruda-buddy)
+
+A travel-buddy concept with simulated journeys and original mascots.  
+<sub>IMCC concept · <a href="https://athbgs.github.io/flygaruda-buddy/">View demo ↗</a></sub>
 
 <br>
 
 ---
 
-<p align="center">
-  <sub>Always learning. One useful project at a time.</sub><br><br>
-  <a href="https://www.linkedin.com/in/athaillahbagas/">Let's connect ↗</a>
-</p>
+<sub>Learning & building with Python, HTML, CSS, and JavaScript.</sub>
